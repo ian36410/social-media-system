@@ -4,6 +4,7 @@
 
 - `my-social-frontend/`：Vue 前端專案
 - `social/`：Spring Boot 後端專案
+- `DB/`：Postgre 資料庫定義
 
 ## 開發環境
 
